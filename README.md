@@ -1,16 +1,14 @@
-### Hi there 👋
+### Aloha 🌴
 
-<!--
-**quentin7b/quentin7b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is *Quentin*, I'm from France and I love working on [Flutter](https://github.com/flutter/flutter) stuff.
 
-Here are some ideas to get you started:
+Right now, I work at [La Mobilery](https://github.com/LaMobilery)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=quentin7b&show_icons=true&theme=highcontrast)]((https://github.com/anuraghazra/github-readme-stats))
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quentin7b&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![SO Stats](https://stackoverflow-card.vercel.app/?userID=2263121&theme=stackoverflow-dark&showAnimations=false)]()
+
+[![@quentin7b's Holopin board](https://holopin.me/quentin7b)](https://holopin.io/@quentin7b)
