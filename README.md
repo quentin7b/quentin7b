@@ -14,30 +14,42 @@
  
  -----
  
- <div>
-  <h3>Stuff I use mainly</h3>
+<div>
+<h3>Stuff I use mainly</h3>
+<h4>Languages & Runtimes</h4>
 
- ![Flutter](https://img.shields.io/badge/Flutter-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+[![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)](https://dart.dev)
+[![TypeScript](https://img.shields.io/badge/Typescript-3178C6.svg?style=for-the-badge&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Bun](https://img.shields.io/badge/Bun-000000.svg?style=for-the-badge&logo=Bun&logoColor=white)](https://bun.sh/)
 
- ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<h4>Frameworks & Runtimes</h4>
  
- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
- 
- ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
- ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
- 
- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Flutter](https://img.shields.io/badge/Flutter-002E3B?style=for-the-badge&logo=Flutter&logoColor=#00DC82)](https://flutter.dev/)
+[![Hono](https://img.shields.io/badge/Hono-E36002.svg?style=for-the-badge&logo=Hono&logoColor=white)](https://hono.dev/)
+
+<h4>DB & BaaS</h4>
+
+[![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-FF9100?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com)
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)](https://appwrite.io/)
+
+<h5> IDE & Other </h5>
+
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
+[![Codeium](https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=Codeium&logoColor=white)](https://codeium.com/)
+[![CleverCloud](https://img.shields.io/badge/clevercloud-171C36?style=for-the-badge&logo=clevercloud&logoColor=white)](https://clever-cloud.com/)
+
 </div>
 
  <div>
   <h3>Stuff I use sometimes</h3>
 
- ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
- ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+ ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+ ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+ ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+ ![Redis](https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white)
+ 
 </div>
  
  ### 👀 Some other data
